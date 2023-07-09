@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=NODE_JS_VERSION"
+},
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
@@ -16,4 +19,5 @@
     "mongodb": "4.1",
     "mongoose": "^7.3.2"
   }
+  
 }
